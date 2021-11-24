@@ -1,0 +1,17 @@
+body{
+    background-image:url("https://cdn.shopify.com/s/files/1/0252/2021/8973/files/shutterstock_112889383_large.jpg?v=1571850769");
+    background-size:cover;
+}
+#myCanvas{
+    border:5px solid black;
+    position:center;
+}
+span{
+    font-weight: bold;
+    font-size: 40px;
+    color:limegreen;
+}
+input{
+    font-size: 20px;
+    background-color: mediumblue;
+}
